@@ -22,4 +22,4 @@ A calculadora possui um menu interativo que permite ao usuário escolher entre:
 1. Tenha o Python instalado na sua máquina
 2. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/maargadux/nome-do-repositorio.git](https://github.com/maargadux/calcula.py)
